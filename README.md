@@ -1,20 +1,14 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+I have been working on learning how to do the classic games for computer like mine sweeper, X and 0, and now the snake game
 
-{Provide a description the game that you wrote. Describe how to play your game.}
+I had so much fun learning this and its functionality, different functions and how to best used them. For being my favorite game the Snake Game logic throw me off a bit trying to understanding everything
 
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the game being played and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Snake Game Functionality Video](https://www.loom.com/share/6331399ea5344e88a6a1fc4f3e734d7a?sid=4608e6f5-1ac9-413e-ab12-7dda3901b78c)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+In Visual Studio Code my Snake Game written in Python, is using the PyGame library to add music, create a new window where the snake game can come to life
 
 # Useful Websites
 
